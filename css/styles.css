@@ -1,0 +1,10 @@
+header {
+display: flex;
+justify-content: center;
+align-items: center;
+
+height: 100vh;
+overflow-x: hidden;
+
+background-image: url("/documents/dailies/sept26/img/img.jpg");
+}
